@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(17,26): warning C4101: 'SD': unreferenced local variable
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(143,31): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(146,58): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(152,62): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(130,12): warning C4101: 'hJunction': unreferenced local variable
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(174,21): warning C4101: 'io': unreferenced local variable
+C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\main.cpp(171,10): warning C4101: 'ret': unreferenced local variable
+  Generating code
+  0 of 35 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SysmonEOP.vcxproj -> C:\Users\lab-user\Downloads\SysmonEoP-main\SysmonEoP-main\v2\SysmonEoP\x64\Release\SysmonEOP.exe
